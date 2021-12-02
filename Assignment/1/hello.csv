@@ -1,0 +1,405 @@
+2021-09-02T19:09:50.017+09:00,sm136,IdeState,Active,HelloWorld,Project,,,-1,-1,Default task
+2021-09-02T19:09:51.048+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:52.049+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:52.608+09:00,sm136,Action,NewClass,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:53.052+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:54.063+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:54.924+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:55.069+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:55.071+09:00,sm136,KeyEvent,72:72:1,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:55.310+09:00,sm136,KeyEvent,101:69:0,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:55.431+09:00,sm136,KeyEvent,108:76:0,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:55.550+09:00,sm136,KeyEvent,108:76:0,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:55.731+09:00,sm136,KeyEvent,111:79:0,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:56.082+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:56.241+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:56.421+09:00,sm136,KeyEvent,87:87:1,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:56.661+09:00,sm136,KeyEvent,111:79:0,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:56.872+09:00,sm136,KeyEvent,114:82:0,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:57.050+09:00,sm136,KeyEvent,108:76:0,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:57.094+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:58.096+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:58.220+09:00,sm136,KeyEvent,100:68:0,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:09:59.111+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:10:00.125+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:10:01.127+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:10:02.133+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:10:03.134+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:10:04.150+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:10:05.165+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:10:06.180+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:07.181+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:08.196+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:09.211+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:10.213+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:11.215+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:12.228+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:13.238+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:14.244+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:15.253+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:16.268+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:17.276+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:18.277+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:19.278+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:20.283+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:10:21.298+09:00,sm136,IdeState,Active,HelloWorld,Popup,,,-1,-1,Default task
+2021-09-02T19:10:22.307+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,0,24,Default task
+2021-09-02T19:10:23.320+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,0,24,Default task
+2021-09-02T19:10:24.327+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,0,25,Default task
+2021-09-02T19:10:25.329+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,0,25,Default task
+2021-09-02T19:10:26.337+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,0,25,Default task
+2021-09-02T19:10:27.350+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,0,25,Default task
+2021-09-02T19:10:28.354+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,0,25,Default task
+2021-09-02T19:10:29.363+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,0,25,Default task
+2021-09-02T19:10:30.379+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,0,25,Default task
+2021-09-02T19:10:31.394+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,0,25,Default task
+2021-09-02T19:10:32.397+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,0,25,Default task
+2021-09-02T19:10:32.522+09:00,sm136,Action,EditorEnter,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,0,25,Default task
+2021-09-02T19:10:32.620+09:00,sm136,KeyEvent,10:10:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,1,4,Default task
+2021-09-02T19:10:32.622+09:00,sm136,Action,EditorEnter,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,1,4,Default task
+2021-09-02T19:10:32.639+09:00,sm136,KeyEvent,10:10:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,4,Default task
+2021-09-02T19:10:32.811+09:00,sm136,KeyEvent,112:80:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,4,Default task
+2021-09-02T19:10:33.074+09:00,sm136,KeyEvent,117:85:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,5,Default task
+2021-09-02T19:10:33.231+09:00,sm136,KeyEvent,98:66:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,6,Default task
+2021-09-02T19:10:33.423+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,7,Default task
+2021-09-02T19:10:33.424+09:00,sm136,KeyEvent,108:76:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,7,Default task
+2021-09-02T19:10:33.531+09:00,sm136,KeyEvent,105:73:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,8,Default task
+2021-09-02T19:10:33.681+09:00,sm136,KeyEvent,99:67:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,9,Default task
+2021-09-02T19:10:34.426+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,10,Default task
+2021-09-02T19:10:35.436+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,10,Default task
+2021-09-02T19:10:36.439+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,10,Default task
+2021-09-02T19:10:37.442+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,10,Default task
+2021-09-02T19:10:38.456+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,10,Default task
+2021-09-02T19:10:38.996+09:00,sm136,KeyEvent,32:32:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,10,Default task
+2021-09-02T19:10:39.082+09:00,sm136,KeyEvent,115:83:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,11,Default task
+2021-09-02T19:10:39.231+09:00,sm136,KeyEvent,116:84:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,12,Default task
+2021-09-02T19:10:39.382+09:00,sm136,KeyEvent,97:65:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,13,Default task
+2021-09-02T19:10:39.461+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,14,Default task
+2021-09-02T19:10:39.562+09:00,sm136,KeyEvent,116:84:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,14,Default task
+2021-09-02T19:10:39.712+09:00,sm136,KeyEvent,105:73:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,15,Default task
+2021-09-02T19:10:39.922+09:00,sm136,KeyEvent,99:67:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,16,Default task
+2021-09-02T19:10:40.132+09:00,sm136,KeyEvent,32:32:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,17,Default task
+2021-09-02T19:10:40.476+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,18,Default task
+2021-09-02T19:10:41.212+09:00,sm136,KeyEvent,118:86:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,18,Default task
+2021-09-02T19:10:41.363+09:00,sm136,KeyEvent,111:79:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,19,Default task
+2021-09-02T19:10:41.422+09:00,sm136,KeyEvent,105:73:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,20,Default task
+2021-09-02T19:10:41.484+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,21,Default task
+2021-09-02T19:10:41.542+09:00,sm136,KeyEvent,100:68:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,21,Default task
+2021-09-02T19:10:41.692+09:00,sm136,KeyEvent,32:32:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,22,Default task
+2021-09-02T19:10:42.081+09:00,sm136,KeyEvent,109:77:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,23,Default task
+2021-09-02T19:10:42.171+09:00,sm136,KeyEvent,97:65:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,24,Default task
+2021-09-02T19:10:42.322+09:00,sm136,KeyEvent,105:73:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,25,Default task
+2021-09-02T19:10:42.472+09:00,sm136,KeyEvent,110:78:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,26,Default task
+2021-09-02T19:10:42.496+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,27,Default task
+2021-09-02T19:10:42.563+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,27,Default task
+2021-09-02T19:10:42.890+09:00,sm136,KeyEvent,40:57:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,27,Default task
+2021-09-02T19:10:43.511+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,28,Default task
+2021-09-02T19:10:43.552+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,28,Default task
+2021-09-02T19:10:43.642+09:00,sm136,KeyEvent,83:83:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,28,Default task
+2021-09-02T19:10:43.851+09:00,sm136,KeyEvent,116:84:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,29,Default task
+2021-09-02T19:10:44.002+09:00,sm136,KeyEvent,105:73:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,30,Default task
+2021-09-02T19:10:44.121+09:00,sm136,KeyEvent,110:78:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,31,Default task
+2021-09-02T19:10:44.251+09:00,sm136,KeyEvent,114:82:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,32,Default task
+2021-09-02T19:10:44.526+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,33,Default task
+2021-09-02T19:10:44.756+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,33,Default task
+2021-09-02T19:10:44.770+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,32,Default task
+2021-09-02T19:10:44.901+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,32,Default task
+2021-09-02T19:10:44.923+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,31,Default task
+2021-09-02T19:10:45.021+09:00,sm136,KeyEvent,114:82:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,31,Default task
+2021-09-02T19:10:45.196+09:00,sm136,KeyEvent,105:73:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,32,Default task
+2021-09-02T19:10:45.261+09:00,sm136,KeyEvent,110:78:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,33,Default task
+2021-09-02T19:10:45.381+09:00,sm136,KeyEvent,103:71:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,34,Default task
+2021-09-02T19:10:45.540+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,35,Default task
+2021-09-02T19:10:45.621+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,35,Default task
+2021-09-02T19:10:45.624+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,34,Default task
+2021-09-02T19:10:45.772+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,34,Default task
+2021-09-02T19:10:45.774+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,33,Default task
+2021-09-02T19:10:45.892+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,33,Default task
+2021-09-02T19:10:45.895+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,32,Default task
+2021-09-02T19:10:46.041+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,32,Default task
+2021-09-02T19:10:46.044+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,31,Default task
+2021-09-02T19:10:46.131+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,31,Default task
+2021-09-02T19:10:46.134+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,30,Default task
+2021-09-02T19:10:46.543+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,30,Default task
+2021-09-02T19:10:46.642+09:00,sm136,KeyEvent,114:82:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,30,Default task
+2021-09-02T19:10:46.941+09:00,sm136,KeyEvent,105:73:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,31,Default task
+2021-09-02T19:10:47.001+09:00,sm136,KeyEvent,110:78:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,32,Default task
+2021-09-02T19:10:47.091+09:00,sm136,KeyEvent,103:71:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,33,Default task
+2021-09-02T19:10:47.557+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,34,Default task
+2021-09-02T19:10:48.559+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,34,Default task
+2021-09-02T19:10:48.832+09:00,sm136,KeyEvent,91:91:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,34,Default task
+2021-09-02T19:10:48.921+09:00,sm136,KeyEvent,93:93:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,35,Default task
+2021-09-02T19:10:49.560+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,36,Default task
+2021-09-02T19:10:49.613+09:00,sm136,KeyEvent,32:32:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,36,Default task
+2021-09-02T19:10:49.912+09:00,sm136,KeyEvent,97:65:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,37,Default task
+2021-09-02T19:10:50.062+09:00,sm136,KeyEvent,114:82:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,38,Default task
+2021-09-02T19:10:50.362+09:00,sm136,KeyEvent,103:71:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,39,Default task
+2021-09-02T19:10:50.575+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,40,Default task
+2021-09-02T19:10:50.781+09:00,sm136,KeyEvent,115:83:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,40,Default task
+2021-09-02T19:10:51.561+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,41,Default task
+2021-09-02T19:10:51.589+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,41,Default task
+2021-09-02T19:10:51.682+09:00,sm136,KeyEvent,41:48:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,41,Default task
+2021-09-02T19:10:52.104+09:00,sm136,KeyEvent,32:32:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,42,Default task
+2021-09-02T19:10:52.222+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,43,Default task
+2021-09-02T19:10:52.342+09:00,sm136,KeyEvent,80:80:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,43,Default task
+2021-09-02T19:10:52.556+09:00,sm136,Action,EditorStartNewLine,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,44,Default task
+2021-09-02T19:10:52.570+09:00,sm136,KeyEvent,10:10:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,3,8,Default task
+2021-09-02T19:10:52.604+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,3,8,Default task
+2021-09-02T19:10:53.091+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,3,8,Default task
+2021-09-02T19:10:53.097+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,44,Default task
+2021-09-02T19:10:53.242+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,44,Default task
+2021-09-02T19:10:53.244+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,43,Default task
+2021-09-02T19:10:53.392+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,43,Default task
+2021-09-02T19:10:53.394+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,42,Default task
+2021-09-02T19:10:53.617+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,42,Default task
+2021-09-02T19:10:53.932+09:00,sm136,KeyEvent,32:32:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,42,Default task
+2021-09-02T19:10:54.052+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,43,Default task
+2021-09-02T19:10:54.171+09:00,sm136,KeyEvent,123:91:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,43,Default task
+2021-09-02T19:10:54.352+09:00,sm136,Action,EditorStartNewLine,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,44,Default task
+2021-09-02T19:10:54.361+09:00,sm136,KeyEvent,10:10:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,3,4,Default task
+2021-09-02T19:10:54.633+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,3,4,Default task
+2021-09-02T19:10:55.492+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,3,4,Default task
+2021-09-02T19:10:55.497+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,45,Default task
+2021-09-02T19:10:55.636+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,45,Default task
+2021-09-02T19:10:55.852+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,2,45,Default task
+2021-09-02T19:10:55.857+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,44,Default task
+2021-09-02T19:10:56.643+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,44,Default task
+2021-09-02T19:10:56.753+09:00,sm136,Action,EditorEnter,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,44,Default task
+2021-09-02T19:10:56.767+09:00,sm136,KeyEvent,10:10:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,3,8,Default task
+2021-09-02T19:10:56.932+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,8,Default task
+2021-09-02T19:10:57.120+09:00,sm136,KeyEvent,125:93:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,8,Default task
+2021-09-02T19:10:57.645+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,3,5,Default task
+2021-09-02T19:10:57.752+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,3,5,Default task
+2021-09-02T19:10:57.754+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,4,Default task
+2021-09-02T19:10:58.283+09:00,sm136,KeyEvent,32:32:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,4,Default task
+2021-09-02T19:10:58.659+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,5,Default task
+2021-09-02T19:10:59.092+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,5,Default task
+2021-09-02T19:10:59.096+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,44,Default task
+2021-09-02T19:10:59.267+09:00,sm136,Action,EditorTab,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,44,Default task
+2021-09-02T19:10:59.270+09:00,sm136,KeyEvent,9:9:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,48,Default task
+2021-09-02T19:10:59.669+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,48,Default task
+2021-09-02T19:11:00.021+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,48,Default task
+2021-09-02T19:11:00.024+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,47,Default task
+2021-09-02T19:11:00.502+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,47,Default task
+2021-09-02T19:11:00.529+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,46,Default task
+2021-09-02T19:11:00.671+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,46,Default task
+2021-09-02T19:11:00.713+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,46,Default task
+2021-09-02T19:11:00.715+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,45,Default task
+2021-09-02T19:11:00.862+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,45,Default task
+2021-09-02T19:11:00.865+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,44,Default task
+2021-09-02T19:11:01.433+09:00,sm136,Action,EditorEnter,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,2,44,Default task
+2021-09-02T19:11:01.438+09:00,sm136,KeyEvent,10:10:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,3,8,Default task
+2021-09-02T19:11:01.674+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,8,Default task
+2021-09-02T19:11:01.971+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,8,Default task
+2021-09-02T19:11:02.182+09:00,sm136,KeyEvent,83:83:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,8,Default task
+2021-09-02T19:11:02.481+09:00,sm136,KeyEvent,121:89:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,9,Default task
+2021-09-02T19:11:02.687+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,10,Default task
+2021-09-02T19:11:03.173+09:00,sm136,KeyEvent,115:83:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,10,Default task
+2021-09-02T19:11:03.651+09:00,sm136,KeyEvent,116:84:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,11,Default task
+2021-09-02T19:11:03.700+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,12,Default task
+2021-09-02T19:11:03.831+09:00,sm136,KeyEvent,101:69:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,12,Default task
+2021-09-02T19:11:03.922+09:00,sm136,KeyEvent,109:77:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,13,Default task
+2021-09-02T19:11:04.611+09:00,sm136,KeyEvent,46:46:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,14,Default task
+2021-09-02T19:11:04.706+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,15,Default task
+2021-09-02T19:11:05.632+09:00,sm136,KeyEvent,111:79:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,15,Default task
+2021-09-02T19:11:05.709+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,16,Default task
+2021-09-02T19:11:05.751+09:00,sm136,KeyEvent,117:85:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,16,Default task
+2021-09-02T19:11:05.873+09:00,sm136,KeyEvent,116:84:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,17,Default task
+2021-09-02T19:11:06.292+09:00,sm136,KeyEvent,46:46:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,18,Default task
+2021-09-02T19:11:06.713+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,19,Default task
+2021-09-02T19:11:07.719+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,19,Default task
+2021-09-02T19:11:07.853+09:00,sm136,Action,EditorChooseLookupItemReplace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,19,Default task
+2021-09-02T19:11:07.891+09:00,sm136,KeyEvent,9:9:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,27,Default task
+2021-09-02T19:11:08.241+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,27,Default task
+2021-09-02T19:11:08.392+09:00,sm136,KeyEvent,40:57:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,27,Default task
+2021-09-02T19:11:08.733+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,28,Default task
+2021-09-02T19:11:08.933+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,28,Default task
+2021-09-02T19:11:08.935+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,27,Default task
+2021-09-02T19:11:09.735+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,27,Default task
+2021-09-02T19:11:09.982+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,27,Default task
+2021-09-02T19:11:10.042+09:00,sm136,KeyEvent,34:222:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,27,Default task
+2021-09-02T19:11:10.702+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,28,Default task
+2021-09-02T19:11:10.745+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,28,Default task
+2021-09-02T19:11:10.792+09:00,sm136,KeyEvent,72:72:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,28,Default task
+2021-09-02T19:11:11.121+09:00,sm136,KeyEvent,101:69:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,29,Default task
+2021-09-02T19:11:11.241+09:00,sm136,KeyEvent,108:76:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,30,Default task
+2021-09-02T19:11:11.361+09:00,sm136,KeyEvent,108:76:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,31,Default task
+2021-09-02T19:11:11.572+09:00,sm136,KeyEvent,101:69:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,32,Default task
+2021-09-02T19:11:11.761+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,33,Default task
+2021-09-02T19:11:11.931+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,33,Default task
+2021-09-02T19:11:11.934+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,32,Default task
+2021-09-02T19:11:12.174+09:00,sm136,KeyEvent,111:79:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,32,Default task
+2021-09-02T19:11:12.652+09:00,sm136,KeyEvent,32:32:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,33,Default task
+2021-09-02T19:11:12.774+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,34,Default task
+2021-09-02T19:11:12.862+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,34,Default task
+2021-09-02T19:11:12.952+09:00,sm136,KeyEvent,87:87:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,34,Default task
+2021-09-02T19:11:13.370+09:00,sm136,KeyEvent,111:79:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,35,Default task
+2021-09-02T19:11:13.552+09:00,sm136,KeyEvent,114:82:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,36,Default task
+2021-09-02T19:11:13.643+09:00,sm136,KeyEvent,108:76:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,37,Default task
+2021-09-02T19:11:13.777+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,38,Default task
+2021-09-02T19:11:14.332+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,38,Default task
+2021-09-02T19:11:14.335+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,37,Default task
+2021-09-02T19:11:14.483+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,37,Default task
+2021-09-02T19:11:14.485+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,36,Default task
+2021-09-02T19:11:14.601+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,36,Default task
+2021-09-02T19:11:14.603+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,35,Default task
+2021-09-02T19:11:14.783+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,35,Default task
+2021-09-02T19:11:14.784+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,34,Default task
+2021-09-02T19:11:14.790+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,34,Default task
+2021-09-02T19:11:15.051+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,34,Default task
+2021-09-02T19:11:15.053+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,33,Default task
+2021-09-02T19:11:15.798+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,33,Default task
+2021-09-02T19:11:15.802+09:00,sm136,KeyEvent,44:44:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,33,Default task
+2021-09-02T19:11:16.343+09:00,sm136,KeyEvent,32:32:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,34,Default task
+2021-09-02T19:11:16.552+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,35,Default task
+2021-09-02T19:11:16.730+09:00,sm136,KeyEvent,87:87:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,35,Default task
+2021-09-02T19:11:16.803+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,36,Default task
+2021-09-02T19:11:16.912+09:00,sm136,KeyEvent,111:79:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,36,Default task
+2021-09-02T19:11:17.063+09:00,sm136,KeyEvent,114:82:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,37,Default task
+2021-09-02T19:11:17.212+09:00,sm136,KeyEvent,108:76:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,38,Default task
+2021-09-02T19:11:17.332+09:00,sm136,KeyEvent,100:68:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,39,Default task
+2021-09-02T19:11:17.807+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,40,Default task
+2021-09-02T19:11:18.814+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,40,Default task
+2021-09-02T19:11:18.863+09:00,sm136,KeyEvent,32:32:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,40,Default task
+2021-09-02T19:11:19.342+09:00,sm136,KeyEvent,50:50:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,41,Default task
+2021-09-02T19:11:19.433+09:00,sm136,KeyEvent,48:48:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,42,Default task
+2021-09-02T19:11:19.733+09:00,sm136,KeyEvent,49:49:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,43,Default task
+2021-09-02T19:11:19.830+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,44,Default task
+2021-09-02T19:11:19.912+09:00,sm136,KeyEvent,57:57:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,44,Default task
+2021-09-02T19:11:20.693+09:00,sm136,Action,EditorBackSpace,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,45,Default task
+2021-09-02T19:11:20.695+09:00,sm136,KeyEvent,8:8:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,44,Default task
+2021-09-02T19:11:20.833+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,44,Default task
+2021-09-02T19:11:20.991+09:00,sm136,KeyEvent,56:56:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,44,Default task
+2021-09-02T19:11:21.502+09:00,sm136,KeyEvent,50:50:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,45,Default task
+2021-09-02T19:11:21.846+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,46,Default task
+2021-09-02T19:11:21.892+09:00,sm136,KeyEvent,52:52:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,46,Default task
+2021-09-02T19:11:22.042+09:00,sm136,KeyEvent,52:52:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,47,Default task
+2021-09-02T19:11:22.223+09:00,sm136,KeyEvent,55:55:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,48,Default task
+2021-09-02T19:11:22.313+09:00,sm136,KeyEvent,51:51:0,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,49,Default task
+2021-09-02T19:11:22.860+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T19:11:23.333+09:00,sm136,KeyEvent,65535:16:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T19:11:23.512+09:00,sm136,KeyEvent,33:49:1,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,50,Default task
+2021-09-02T19:11:23.863+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,51,Default task
+2021-09-02T19:11:24.876+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,51,Default task
+2021-09-02T19:11:25.882+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,HelloWorld::main,3,51,Default task
+2021-09-02T19:11:26.883+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:27.889+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:28.897+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:29.901+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:30.915+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:31.919+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:32.930+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:33.945+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:34.949+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:35.963+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:36.976+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:37.991+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:38.999+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:40.010+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:41.024+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:42.025+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:43.035+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:44.042+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:45.043+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:46.045+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:47.055+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:48.057+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:49.067+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:50.080+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:51.081+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:52.085+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:53.100+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:54.112+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:55.125+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:56.139+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:57.150+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:58.155+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:11:59.166+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:00.168+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:01.171+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:02.175+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:03.176+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:04.191+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:05.196+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:06.204+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:07.214+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:08.225+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:09.228+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:10.243+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:11.256+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:12.262+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:13.276+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:14.288+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:15.295+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:16.296+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:17.313+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:18.324+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:19.336+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:20.347+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:21.358+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:22.366+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:23.381+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:24.391+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:25.399+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:26.402+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:27.412+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:28.421+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:29.428+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:30.433+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:31.445+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:32.445+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:33.450+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:34.451+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:35.452+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:36.465+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:37.469+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:38.473+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:39.488+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:40.491+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:41.505+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:42.518+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:43.532+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:44.548+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:45.549+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:46.563+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:47.270+09:00,sm136,KeyEvent,65535:18:8,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:47.565+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:48.572+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:49.580+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:50.584+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:12:51.620+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:52.634+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:53.645+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:54.652+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:55.657+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:56.662+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:57.672+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:58.680+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:12:59.685+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:00.691+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:01.695+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:02.698+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:03.706+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:04.719+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:05.733+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:06.743+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:07.745+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:08.753+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:09.757+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:10.770+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:11.773+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:12.781+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:13.783+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:14.791+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:15.792+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:16.805+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:13:17.810+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:13:18.813+09:00,sm136,IdeState,Active,HelloWorld,Editor,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:13:19.826+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:20.830+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:21.838+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:22.844+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:23.852+09:00,sm136,IdeState,Inactive,,,,,-1,-1,
+2021-09-02T19:13:24.854+09:00,sm136,IdeState,Active,HelloWorld,Popup,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:13:25.868+09:00,sm136,IdeState,Active,HelloWorld,Popup,C:/Users/sm136/IdeaProjects/HelloWorld/src/HelloWorld.java,,6,0,Default task
+2021-09-02T19:13:26.191+09:00,sm136,Action,Start/Stop Activity Tracking,,,,,-1,-1,
